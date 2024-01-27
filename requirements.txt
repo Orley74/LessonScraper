@@ -1,0 +1,5 @@
+scrapy
+neo4j==5.16.0
+requests
+scrapydo
+argparse
